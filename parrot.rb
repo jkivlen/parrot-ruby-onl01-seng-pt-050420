@@ -3,5 +3,5 @@
 
 def parrot
   puts "parrot"
-  returns "parrot"
+  "parrot"
 end
