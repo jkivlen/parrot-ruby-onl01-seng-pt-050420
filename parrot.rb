@@ -2,3 +2,6 @@
 # returns the phrase
 
 def parrot 
+  puts "parrot"
+  returns "parrot"
+end
